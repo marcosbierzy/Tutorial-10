@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\usuario\Desktop\Tutorial 10\Tutorial 10\mojo-base-project-master\syn\mojo_top.ncd
+OUTFILE=C:\Users\usuario\Desktop\Tutorial 10\Tutorial 10\mojo-base-project-master\syn\mojo_top.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\usuario\Desktop\Tutorial 10\Tutorial 10\mojo-base-project-master\syn
+LICENSE=ISE
+USER_INFO=_
